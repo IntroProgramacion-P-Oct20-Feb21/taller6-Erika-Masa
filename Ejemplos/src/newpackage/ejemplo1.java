@@ -3,16 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package problema.pkg1;
-
+package newpackage;
 import java.util.Locale;
 import java.util.Scanner;
 
 /**
  *
- * @author jamil
+ * smart
  */
-public class Problema1 {
+public class ejemplo1 {
 
     /**
      * @param args the command line arguments
